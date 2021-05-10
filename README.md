@@ -30,7 +30,7 @@ I have provided a noteback to demonstart the work related to the questions I am 
 
 ## Insights <a name="insight"></a>
 
-<Add info later>
+My insights can be found [here](https://medium.com/@rurisakari/the-best-countries-to-become-a-developer-in-6b87650aa412)
   
 ## Licensing, Authors, Acknowledgements <a name="license"></a>
 Credits given to Stack Overflow for the dataset. Licensing for the data and other information can be found at the Kaggle e
